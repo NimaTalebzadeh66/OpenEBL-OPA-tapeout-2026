@@ -36,16 +36,13 @@ $$
 where
 
 $$
-\beta = \frac{2\pi n_{\mathrm{eff}}}{\lambda}.
+\beta = \frac{2\pi n_{\mathrm{eff}}}{\lambda}
 $$
 
 The array factor is
 
 $$
-AF(\theta)
-=
-\sum_n A_n
-e^{j(\phi_n-k_0x_n\sin\theta)}.
+AF(\theta) = \sum_n A_n e^{j(\phi_n-k_0x_n\sin\theta)}
 $$
 
 ## Day 1 Result
@@ -54,11 +51,11 @@ Implemented and validated the first analytical 4-element array-factor model.
 
 Initial test case:
 
-- Number of emitters: \(N = 4\)
+- Number of emitters: $N = 4$
 - Equal amplitudes
 - Equal phases
-- Pitch: \(d = \lambda/2\)
-- Main beam: \(\theta = 0^\circ\)
+- Pitch: $d = \lambda/2$
+- Main beam: $\theta = 0^\circ$
 
 ## Day 1 Array-Factor Result
 
