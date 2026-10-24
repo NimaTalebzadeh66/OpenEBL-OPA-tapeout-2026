@@ -23,7 +23,7 @@ Automated hierarchical layout generation, integrated PDK grating couplers and Y-
 
 **Final merged layout:** **0 reported EBeam DRC errors** and **0 SiEPIC Functional Layout Check findings**, as checked in KLayout.
 
-![OPA routing](opa-routing-detail.png)
+
 *OPA routing detail: input coupler, splitter tree and four delay-engineered waveguides.*
 
 ![Emitter close-up](antenna-closeup.png)
